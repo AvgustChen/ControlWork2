@@ -9,6 +9,7 @@ using App.View.Interfaces;
 
 namespace App
 {
+    
     public class Program
     {
         public static void Main()
