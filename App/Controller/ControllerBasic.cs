@@ -139,7 +139,7 @@ namespace App.Controller
                             }
                             else
                             {
-                                view.ShowText("Не все данные корректно введены");
+                                view.ShowText("Введены некоректные данные!");
                             }
                         break;
                     default:
